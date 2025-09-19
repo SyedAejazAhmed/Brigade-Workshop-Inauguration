@@ -45,10 +45,10 @@ Example console summary pattern:
 ==================================================
 SATISFACTION ANALYSIS SUMMARY
 ==================================================
-Total satisfaction questions analyzed: N
-Overall average satisfaction: X.XX/5.0
-Highest rated aspect: <Aspect Name> (Y.YY)
-Lowest rated aspect: <Aspect Name> (Z.ZZ)
+Total satisfaction questions analyzed: 10
+Overall average satisfaction: 4.23/5.0
+Highest rated aspect: event (4.59)
+Lowest rated aspect: logistics Welcome kit (3.66)
 
 Detailed Scores:
   • event: 4.59/5.0
@@ -61,7 +61,6 @@ Detailed Scores:
   • Closing ceremony: 4.12/5.0
   • Welcome activity: 4.08/5.0
   • Welcome kit: 3.66/5.0
-  ...
 ```
 (Actual values depend on the underlying private dataset.)
 
