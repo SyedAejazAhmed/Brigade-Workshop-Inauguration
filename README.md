@@ -132,4 +132,4 @@ jupyter notebook event_feedback.ipynb
 Overall sentiment is positive and structurally consistent. The event delivery model is sound; iterative improvements should focus on polishing secondary experience layers (onboarding, supplemental materials, interactivity pacing). The framework here offers a repeatable, privacy-conscious baseline for future cycles.
 
 ---
-*Maintained by the Data Analytics Club.* 
+*Maintained by the Data Analytics Club.Department of Artificial Intelligence and Data Science, St. Joseph's College of Engineering* 
